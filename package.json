@@ -1,8 +1,8 @@
 {
-  "name": "com.sharedunityservices.template",
-  "displayName": "SharedServices.Template",
+  "name": "com.sharedunityservices.xml",
+  "displayName": "SharedServices.Xml",
   "version": "1.0.0",
-  "description": "<b>Dependencies:</b> https://github.com/sharedunityservices/SharedServices..Core.git\n\n<b>SharedServices.Template</b> is a template package for SharedServices. It is a starting point for creating new packages.",
+  "description": "<b>Dependencies:</b> https://github.com/sharedunityservices/SharedServices..Core.git\n\n<b>SharedServices.Xml</b> is a Unity package that provides a set of XML utilities for Unity projects.",
   "unity": "2020.1",
   "author": {
     "name": "ETdoFresh",
